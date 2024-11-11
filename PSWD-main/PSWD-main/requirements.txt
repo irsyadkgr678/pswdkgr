@@ -1,9 +1,0 @@
-streamlit
-numpy
-matplotlib
-scipy
-sympy
-sounddevice
-opencv-python
-simpleaudio
-opencv-python-headless
